@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/my projects/sample1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web design challenge"
+	}
+}
